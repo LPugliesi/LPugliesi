@@ -20,4 +20,7 @@ Outside of my studies, I'm passionate about **music** and **video games**!!!
 
 <p align="center">
   <img src="FutabaAttack.gif" width="500" alt="Futaba All Out Attack">
-</p>>
+</p>
+<p align="center">
+  <img src="divider.gif" width="800" alt="Divider">
+</p>
