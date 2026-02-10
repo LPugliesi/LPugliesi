@@ -11,7 +11,7 @@ This profile is a collection of the projects I've developed for my university ex
 
 * **[Computational Linguistics](https://github.com/LPugliesi/ProgettoLC)** - Final project for the Computational Linguistics exam: ![](https://img.shields.io/badge/Completed-brightgreen?style=flat-square)
 * **[Text Encoding](https://github.com/LPugliesi/CodificaRassegnasettimanaleLP)** - Project for the Text Encoding exam: ![](https://img.shields.io/badge/Completed-brightgreen?style=flat-square)
-* **[Databases and Web Lab](https://github.com/LPugliesi)** - Project for the Databases and Web Laboratory exam: ![](https://img.shields.io/badge/Work_in_Progress-red?style=flat-square)
+* **[Databases and Web Lab](https://github.com/LPugliesi/ProgettoBDD-LPW)** - Project for the Databases and Web Laboratory exam: ![](https://img.shields.io/badge/Work_in_Progress-red?style=flat-square)
 
 ---
 
