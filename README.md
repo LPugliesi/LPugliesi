@@ -13,10 +13,8 @@ This space showcases the projects I've developed during my academic journey.
 
 ### Projects
 
-* **[Computational linguistics](https://github.com/LPugliesi/ProgettoLC)** - Project for the Computational linguistics exam ![](https://img.shields.io/badge/Completed-brightgreen?style=flat-square)
-* **[Text Encoding](https://github.com/LPugliesi/CodificaRassegnasettimanaleLP)** - Project for the Text Encoding exam ![](https://img.shields.io/badge/Completed-brightgreen?style=flat-square)
-* **[Databases and Web Lab](https://github.com/LPugliesi/ProgettoBDD-LPW)** - Project for the Databases and Web Laboratory exam ![](https://img.shields.io/badge/Work_in_Progress-red?style=flat-square)
-
+* **[Computational linguistics](https://github.com/LPugliesi/ProgettoLC)** - Project for the Computational linguistics exam
+* **[Text Encoding](https://github.com/LPugliesi/CodificaRassegnasettimanaleLP)** - Project for the Text Encoding exam 
 ---
 
 <p align="center">
