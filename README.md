@@ -8,8 +8,8 @@
 
 ---
 
-Hi! I'm a Digital Humanities student at the University of Pisa!  
-This space showcases the projects I've developed during my academic journey.
+Degree in Digital Humanities, University of Pisa!
+This space showcases the projects I developed during my academic journey.
 
 ### Projects
 
