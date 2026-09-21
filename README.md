@@ -8,8 +8,7 @@
 
 ---
 
-Degree in Digital Humanities, University of Pisa!
-
+Degree in Digital Humanities, University of Pisa! <br>
 This space showcases the projects I developed during my academic journey.
 
 ### Projects
